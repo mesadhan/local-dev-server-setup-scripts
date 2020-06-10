@@ -3,13 +3,13 @@ If we work as Cloud or DevOps Engineer core responsibility is to make repetitive
 
 ## 1. Collections of scripts are,
 
-- Setup mongodb centos7
-- Setup neo4j-ce centos7
-- Setup postgresql centos7
-- Setup redis centos7
-- Setup postgresql ubuntu
-- Setup kafka Contos7
-- Debian VPS Nodejs Deployment Automation
+- Setup `mongodb centos7`
+- Setup `neo4j-ce centos7`
+- Setup `postgresql centos7`
+- Setup `redis centos7`
+- Setup `postgresql ubuntu`
+- Setup `kafka Contos7`
+- Debian `VPS Nodejs Deployment Automation`
 
 ## 2. Why we need shell script
 Shell script is a text file that contians sequence of commands. The shell is the operating system's command-line interface (CLI) and interpereter for the the set of commands that are used to communiate with the system. Some time we need to to do repetitive work then it save our life. Like other programs, the shell script can contain parameters, comments and subcommands that the shell must follow. Using shell script easily we can execute batch of commands. Shell scripts support include loops, variables, if/then/else statements, arrays and shortcuts. Finally, the file is saved typically with a .txt or .sh extension.
