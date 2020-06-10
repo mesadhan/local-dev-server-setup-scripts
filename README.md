@@ -1,5 +1,5 @@
 # Local dev Server Setup Scripts
-If we work as Cloud or DevOps Engineer core responsibility is to make repetitive jobs automate, so later it saves time effort. We can automate thinks using other tools like chef, puppet and most recommend are ansible and terraform.
+If we work as Cloud or DevOps Engineer core responsibility is to make repetitive jobs automate, so later it saves time effort. We can automate things using other tools like chef, puppet and most recommend are ansible and terraform.
 
 ## 1. Collections of scripts are,
 
